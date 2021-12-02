@@ -27,3 +27,4 @@ public class Main {
         return 0;
     }
 }
+// this will give the no of smallest no of notes required:
